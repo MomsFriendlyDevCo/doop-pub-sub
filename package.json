@@ -4,7 +4,7 @@
   "description": "A pubSub service for the Doop framework",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MomsFriendlyDevCo/doop-service-pub-sub.git"
+    "url": "git+https://github.com/MomsFriendlyDevCo/doop-pub-sub.git"
   },
   "keywords": [
     "doop"
@@ -12,10 +12,7 @@
   "author": "Matt Carter <m@ttcarter.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MomsFriendlyDevCo/doop-service-pub-sub/issues"
+    "url": "https://github.com/MomsFriendlyDevCo/doop-pub-sub/issues"
   },
-  "homepage": "https://github.com/MomsFriendlyDevCo/doop-service-pub-sub#readme",
-  "workspaces": [
-    "../*"
-  ]
+  "homepage": "https://github.com/MomsFriendlyDevCo/doop-pub-sub#readme"
 }
